@@ -12,7 +12,7 @@
   //$endpoint = "{$server}api/gallery/image.json";
   //$endpoint = "{$server}api/gallery/like.json?id=193";
  // $endpoint = "{$server}api/geodata/location";
-   $endpoint = "{$server}api/geodata/country";
+   $endpoint = "{$server}api/geodata/country.json";
 
   $header = array(
     "Content-Type: text/xml;charset=UTF-8",
